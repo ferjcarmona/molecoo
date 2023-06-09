@@ -5,7 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/main)
 
 
-play package for practice
+play package for practice hahahahaha I added more stuff GOBLIN NMODE
 
 ### Copyright
 
